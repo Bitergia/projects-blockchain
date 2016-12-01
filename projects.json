@@ -2,6 +2,41 @@
   "Hyperlegder": {
     "stackexchange": [
       "http://stackoverflow.com/questions/tagged/hyperledger"
+    ],
+    "pipermail": [
+        "https://lists.hyperledger.org/pipermail/healthcare-wg/",
+        "https://lists.hyperledger.org/pipermail/hyperledger-announce/",
+        "https://lists.hyperledger.org/pipermail/hyperledger-arch-wg/",
+        "https://lists.hyperledger.org/pipermail/hyperledger-discuss/",
+        "https://lists.hyperledger.org/pipermail/hyperledger-fabric/",
+        "https://lists.hyperledger.org/pipermail/hyperledger-requirements-wg/",
+        "https://lists.hyperledger.org/pipermail/hyperledger-stl/",
+        "https://lists.hyperledger.org/pipermail/hyperledger-technical-discuss/"
+        "https://lists.hyperledger.org/pipermail/hyperledger-tsc/"
+    ],
+    "gerrit": [
+        "https://gerrit.hyperledger.org"
+    ],
+    "git":[
+        "http://gerrit.hyperledger.org/r/blockchain-explorer",
+        "http://gerrit.hyperledger.org/r/ci-management",
+        "http://gerrit.hyperledger.org/r/fabric",
+        "http://gerrit.hyperledger.org/r/fabric-api",
+        "http://gerrit.hyperledger.org/r/fabric-baseimage",
+        "http://gerrit.hyperledger.org/r/fabric-cop",
+        "http://gerrit.hyperledger.org/r/fabric-sdk-java",
+        "http://gerrit.hyperledger.org/r/fabric-sdk-node",
+        "http://gerrit.hyperledger.org/r/fabric-sdk-py",
+        "http://gerrit.hyperledger.org/r/fabric-test-resources",
+        "http://gerrit.hyperledger.org/r/hyperledger",
+        "http://gerrit.hyperledger.org/r/issue-bot",
+        "http://gerrit.hyperledger.org/r/lf-sandbox",
+        "http://gerrit.hyperledger.org/r/sawtooth-arcade",
+        "http://gerrit.hyperledger.org/r/sawtooth-core",
+        "http://gerrit.hyperledger.org/r/sawtooth-dev-tools",
+        "http://gerrit.hyperledger.org/r/sawtooth-docs",
+        "http://gerrit.hyperledger.org/r/sawtooth-mktplace",
+        "http://gerrit.hyperledger.org/r/sawtooth-validator"
     ]
   },
   "Ethereum": {

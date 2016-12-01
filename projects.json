@@ -11,7 +11,7 @@
         "https://lists.hyperledger.org/pipermail/hyperledger-fabric/",
         "https://lists.hyperledger.org/pipermail/hyperledger-requirements-wg/",
         "https://lists.hyperledger.org/pipermail/hyperledger-stl/",
-        "https://lists.hyperledger.org/pipermail/hyperledger-technical-discuss/"
+        "https://lists.hyperledger.org/pipermail/hyperledger-technical-discuss/",
         "https://lists.hyperledger.org/pipermail/hyperledger-tsc/"
     ],
     "gerrit": [

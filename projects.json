@@ -15,7 +15,7 @@
         "https://lists.hyperledger.org/pipermail/hyperledger-tsc/"
     ],
     "gerrit": [
-        "https://gerrit.hyperledger.org"
+        "gerrit.hyperledger.org"
     ],
     "git":[
         "http://gerrit.hyperledger.org/r/blockchain-explorer",
@@ -225,7 +225,8 @@
       "https://github.com/ethereum/yellowpaper"
     ],
     "stackexchange": [
-      "http://stackoverflow.com/questions/tagged/ethereum"
+      "http://stackoverflow.com/questions/tagged/ethereum",
+      "http://ethereum.stackexchange.com/"
     ],
     "meta": {
       "title": "ethereum"
